@@ -14,11 +14,6 @@
     "expirydate": "03-09-2027"
   },
   {
-    "device_id": "ANDROID_ID_2",
-    "key": "USER_KEY_2",
-    "expirydate": "03-09-2027"
-  },
-  {
     "device_id": "Everyone",
     "key": "everyone",
     "expirydate": "03-09-2027"
