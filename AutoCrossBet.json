@@ -1,1 +1,20 @@
-helo
+[
+    {
+        "device_id": "b5174898a379b0d0",
+        "key": "b5174898a379b0d0",
+        "expirydate": "03-09-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "show activation dialog",
+        "key": "everyone",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "allowDevice",
+        "key": "everyone",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    }
+]
