@@ -18,8 +18,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "everyone",
-        "key": "",
+        "device_id": "Everyone",
+        "key": "everyone",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     }
