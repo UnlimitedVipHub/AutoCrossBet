@@ -2,7 +2,7 @@
     {
         "device_id": "b5174898a379b0d0",
         "key": "b5174898a379b0d0",
-        "expirydate": "03-09-2099",
+        "expirydate": "03-09-2027",
         "Allowoffline": false
     },
     {
@@ -18,9 +18,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "Everyone",
+        "device_id": "everyone",
         "key": "",
-        "expirydate": "01-09-2026",
+        "expirydate": "31-12-2099",
         "Allowoffline": false
     }
 ]
