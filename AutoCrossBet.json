@@ -1,7 +1,7 @@
 [
   {
     "device_id": "show activation dialog",
-    "key": "none"
+    "key": "everyone"
   },
   {
     "device_id": "allowDevice",
